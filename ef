@@ -1,0 +1,29 @@
+[33mcommit e87dff9cb615cc11332e65ae89a39f020db66b8e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Luca Tamashiro Decker <kenzotamashiro@usp.br>
+Date:   Mon Aug 31 15:15:55 2020 -0300
+
+    Novo readme com marcadores
+
+[33mcommit 555bfa60b0c03abdfe65d94e681777ddbe6e5418[m
+Author: Luca Tamashiro Decker <kenzotamashiro@usp.br>
+Date:   Mon Aug 31 15:08:37 2020 -0300
+
+    Renomear e mover Hello.py para src/main.py
+
+[33mcommit 5b2af52d9f428049f48187aa0a0908013034cb7b[m
+Author: Luca Tamashiro Decker <kenzotamashiro@usp.br>
+Date:   Mon Aug 31 15:06:57 2020 -0300
+
+    Remover arquivo README
+
+[33mcommit 6532da6cd013b027bf784de1b8b27a78bd66d6d1[m
+Author: Luca Tamashiro Decker <kenzotamashiro@usp.br>
+Date:   Mon Aug 31 15:01:30 2020 -0300
+
+    Inserir arquivo do programa principal
+
+[33mcommit 96c805b1341ed55a3cd387e562741dc59d96a94e[m
+Author: Luca Tamashiro Decker <kenzotamashiro@usp.br>
+Date:   Mon Aug 31 14:52:51 2020 -0300
+
+    Primeiro commit
